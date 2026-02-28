@@ -29,7 +29,7 @@ game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync("-gh 477388
 
 task.wait(1)
 
-game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync("pls say  -net after the script starts, Don't repeat my mistakes🙏")
+game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync("-net")
 
 task.wait(1)
 
